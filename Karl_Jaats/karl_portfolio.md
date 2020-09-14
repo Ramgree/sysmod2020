@@ -56,6 +56,7 @@ A very administrative lab so there's not much to say. Some of the lab exercises 
 **Pros:**
 * Really close to implementation so it's easy to implement
 * Can be used to really understand how the system works in practice <br>
+
 **Cons:**
 * Can only be used for a small system/part of system, otherwise it gets really big and hard to grasp
 * Not applicable to not object oriented solutions <br>
