@@ -24,7 +24,7 @@ A struggle and a necessary thing nobody really wants to do. <br>
 Anything else remarkable from the movie, we should share/discuss? <br>
 That modeling should involve more thinking on your own and not blindly following standards. <br>
 
-#### Lecture questions
+#### Lecture tasks
 What do you expect from Systems modeling? <br>
 To understand systems modeling and make me a more well rounded developer. <br>
 <br>
@@ -52,9 +52,18 @@ A very administrative lab so there's not much to say. Some of the lab exercises 
 
 ### Lecture 2
 #### Prep
+##### Object Diagrams
+**Pros:**
+* Really close to implementation so it's easy to implement
+* Can be used to really understand how the system works in practice <br>
 
+**Cons:**
+* Can only be used for a small system/part of system, otherwise it gets really big and hard to grasp
+* Not applicable to not object oriented solutions <br>
+**Example 1:** When trying to reverse engineer a program it makes sense to make a object diagram of it to understand whats happening better <br>
+**Example 2:** When trying to structure a big project it doesn't make sense to use object diagrams as they are too 'zoomed in' <br>
 
-#### Questions
+#### Tasks
 
 
 #### Lecture reflection
