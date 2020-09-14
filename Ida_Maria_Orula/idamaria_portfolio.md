@@ -54,7 +54,7 @@ We skipped the groupwork part of this task in the lecture since we didn't have e
 **<ins>Examples:</ins>**<br>
 **abstract**|**concrete**
 ------------|------------
-happyness|smile
+happiness|smile
 sadness|tears
 comfort|blanket
 dedication|Master's thesis
