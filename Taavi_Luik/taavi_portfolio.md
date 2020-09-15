@@ -11,7 +11,7 @@ UML<br><br>
 	He gives multiple reasons that he has heard: it's too complex, too low level, the notation is scary, agile teams or TDD don't do UML, <br><br>
 * **What is the model-code gap and what is the problem with it?**<br>
 The difference between architecture or high level understanding of software and the actual code. There should be correspondence between the two, but it's not always there. We think in one terms (e.g. components), but actually code in others (e.g. classes). To an extent this is inevitable, because the whole point of architecture/modelling is to create something abstract, which is easier to understand than the code, while code is always lower level than that.<br><br>
-* **What do you personally think about layers for modeling software?**<br
+* **What do you personally think about layers for modeling software?**<br>
 	There are good reasons why layers should be considered - abstraction, encapsulation, they are helpful for testing. But every architecture should in the end be tailored to the domain/problem/application; there is no single best architecture. It's easy to fall into the trap of thinking you have layers with only one arrow going from each layer, whereas actually you have more arrows because methods are public etc. <br><br>
 * **How do you think about Systems Modeling after watching this movie?**<br>
 	I have understood the importance of modeling before watching the video, but it helped to reinforce that idea.<br><br>
