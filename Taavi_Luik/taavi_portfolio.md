@@ -78,3 +78,48 @@ Given the shyness of most students and lack of previous contacts with many of th
 #### Reflection on lab
 It took time to organize and to understand what is required from us. Some tasks (e.g. Mancala) seemed too complex for teaching something that is in essence quite simple. The setup (learning the rules) and process (playing the game) take longer than listing examples of situations. I do appreciate, however, applying  methods outside the domain of software engineering, as that can often simplify the task and teach the fundamentals, which can be independent of the domain.
 
+### Lecture 2
+
+#### Preparation task
+
+Task: watch the 3 videos shared in Discord.
+
+#### Object Diagrams Pros
+
+Object diagrams show a complete or partial view of a modeled system at a specific time. 
+
+**How would I make an object diagram for our course?**
+
+I would create an object for each instructor (id, name, email, role), student (id, name, email, discord username) and group (student1, student2, student3, student4). Maybe also add an object also for lectures and labs (id, time, topic, classroom).
+
+**Pros**:
+- useful for prototyping
+- useful for small portions in a bigger system
+- they are not too abstract
+- it's easy to change size/scope
+- can be used in different test cases
+- easy to understand
+
+**Knowledge Checklist**: 
+- What is the UML? It's a language designed to help model software architecture.
+- What is an Object Diagram? It's a diagram with parts of a system (instatiations, not classes).
+- What are the main purposes of an Object Diagram? To show an abstract, simplified view of a bigger system.
+- What are the advantages of an Object Diagram? It's useful for prototyping and testing, it's easy to understand.
+
+#### Object Diagrams Cons
+
+The object has a name, attribute and links (arrows).
+
+**Cons**: 
+- it's relatively low level, hence a high level, abstract model of a while system is not possible
+- they are object-oriented, so they are harder to use with functional languages
+- they can be outdated when code changes, so need maintenance
+- these diagrams may become excessive and unreadable
+
+#### Object Diagrams Cons, Team 3
+
+- It's not as useful nowadays (debuggers give the same info automatically)
+- Hard to read in large systems
+- Refactoring objects costs money and time
+- Increases the chance of a model-code gap
+- Confusion between objects and actors
