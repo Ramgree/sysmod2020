@@ -58,4 +58,105 @@ needs to be able to do helps us to at least start understanding it.<br><br><br>
 8. Player 1 plays CJ and states that the next card played must be of diamonds suit. Player 2 wanted to play C10, but will now have to play a card of the diamonds suit. Player 2 plays DJ.
 
 
+### Task 1.6.2.6
 
+**Examples**:
+
+- The user wishes to take out 5€ and the ATM dispenses it.
+- The user wishes to take out 5€ and the ATM declines the request since the user does not have enough money on account.
+- The user wishes to see bank balance and the ATM shows it.
+- The user wishes to see bank balance but the ATM does not show it because an incorrect PIN number was entered. Mary realises that she has forgotten her PIN and does not try again.
+- The user wishes to deposit 5€ and the ATM accepts the money.
+- The user wishes to deposit 5 USD and the ATM rejects it because only euros are  accepted.
+- The user forgets the card inside the ATM after using it and the machine starts beeping.
+- The user wishes to make a pre-defined payment and the payment is processed.
+
+
+### Task 1.6.3.6
+
+I define the following steps which are shared among many scenarios and refer to the user as Mary:
+
+- (1): Mary enters their card to the ATM.
+- (2a): Mary enters the correct PIN on the ATM keyboard.
+- (2b): Mary enters an incorrect PIN on the ATM keyboard.
+- (3): Mary clicks on "Finish"
+- (4): The ATM returns the card.
+- (5): Mary takes the card.
+
+**Scenarios**:
+
+- The user wishes to take out 5€ and the ATM dispenses it.
+	- (1)
+	- (2a)
+	- Mary clicks on "Withdraw", then enters "5" on the keyboard and clicks on "OK"
+	- The ATM checks that Mary has more than 5€ on her account, then dispenses a 5€ note.
+	- Mary takes the money and puts it in her pocket.
+	- (3)
+	- (4)
+	- (5)
+- The user wishes to take out 5€ and the ATM declines the request since the user does not have enough money on account.
+	- (1)
+	- (2a)
+	- Mary clicks on "Withdraw", then enters "5" on the keyboard and clicks on "OK"
+	- The ATM checks that Mary has less than 5€ on her account and shows a corresponding message.
+	- (3)
+	- (4)
+	- (5)
+- The user wishes to see bank balance and the ATM shows it.
+	- (1)
+	- (2a)
+	- Mary clicks on "Balance"
+	- The ATM shows Mary's current balance on the screen.
+	- (3)
+	- (4)
+	- (5)
+- The user wishes to see bank balance but the ATM does not show it because an incorrect PIN number was entered. Mary realises that she has forgotten her PIN and does not try again.
+	- (1)
+	- (2b)
+	- Mary clicks on "Balance"
+	- The ATM shows a message that an incorrect PIN was entered.
+	- (3)
+	- (4)
+	- (5)
+- The user wishes to deposit 5€ and the ATM accepts the money.
+	- (1)
+	- (2a)
+	- Mary clicks on "Deposit"
+	- The ATM shows instructions on the screen and the deposit container is opened
+	- Mary places a 5€ note in the container
+	- After a few seconds the container closes, the ATM counts the money and shows the amount on the screen.
+	- (3)
+	- (4)
+	- (5) 
+- The user wishes to deposit 5 USD and the ATM rejects it because only euros are  accepted.
+	- (1)
+	- (2a)
+	- Mary clicks on "Deposit"
+	- The ATM shows instructions and opens the deposit container
+	- Mary places a 5 USD note in the container
+	- After a few seconds the container closes, the ATM counts the money and shows a message saying that no eligible bank notes were found. The container opens.
+	- Mary takes back the 5 USD note.
+	- (3)
+	- (4)
+	- (5) 
+- The user forgets the card inside the ATM after using it and the machine starts beeping.
+	- (1)
+	- (2a)
+	- Mary clicks on "Balance"
+	- The ATM shows Mary's current balance on the screen.
+	- (3)
+	- (4)
+	- Mary walks away, leaving the card inside.
+	- The ATM starts to beep after a few seconds to indicate a card was left in the card-reader.
+- The user wishes to make a pre-defined payment and the payment is processed.
+	- (1)
+	- (2a)
+	- Mary clicks on "Payments"
+	- The ATM shows a list of pre-defined payments on the screen.
+	- Mary clicks on the payment for her ISP.
+	- The ATM shows details of the payment on the screen.
+	- Mary clicks on "Proceed"
+	- The ATM processes the payment.
+	- (3)
+	- (4)
+	- (5)
