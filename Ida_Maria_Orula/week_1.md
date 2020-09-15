@@ -1,6 +1,3 @@
-# Systems Modeling 2020
-## Ida Maria Orula - Portfolio
-<br><br>
 ### Preparation task for lecture on 08.09
 * **Which types of diagrams are mentioned in the talk?**<br>
 This question can be approached in several ways. First of all, there are the diagrams that can actually exist in the systems modeling world, such as UML, package dependency diagram, class dependency diagrams and boxes and lines diagrams. And then there are those, that inexperienced people come up with, such as “The shopping list of technologies” that only states *what* should be done but not *why*, “Boxes and no lines”, “Functional view”, “The airline Route Map” (a complete mess!), “Generically True” (tells us nothing about the specific system being built), “Logical view”, “Homeless old C# object” and “Choose your own adventure.” <br><br>
@@ -77,7 +74,12 @@ Again, the biggest downside was the organisational side. Dividing people into gr
 ---------|------------|------------|------------|------------
 topic 1| | | |
 
-I also wish we had solved some more tasks together in the lab to get us more on the right track with the textbook exercises. I hope my feedback on the prganisational details didn't appear too agressive, I understand how hard it is to lead a course with a large number of participants fully online when it is actually meant to be given in a classroom.
+I also wish we had solved some more tasks together in the lab to get us more on the right track with the textbook exercises. I hope my feedback on the prganisational details didn't appear too agressive, I understand how hard it is to lead a course with a large number of participants fully online when it is actually meant to be given in a classroom.<br><br><br>
+
+#### Tasks from the lab
+We discussed the tasks together but then divided the work amongst ourselves. I focused mostly on 1.6.1.1, 1.6.2.1, 1.6.2.3 and 1.6.3.3. The tasks can be found [here](/team/Lab_0809_tasks.md)
+
+
 
 
 
