@@ -1,4 +1,4 @@
-## Tasks given in the lecture on 08.09.2020
+## Tasks given in the lab on 08.09.2020
 
 ### Task 1.6.1.1
 *  **<ins>Examples</ins>** <br>
@@ -58,6 +58,16 @@ needs to be able to do helps us to at least start understanding it.<br><br><br>
 8. Player 1 plays CJ and states that the next card played must be of diamonds suit. Player 2 wanted to play C10, but will now have to play a card of the diamonds suit. Player 2 plays DJ.
 
 
+### Task 1.6.2.3
+
+We had to find some additional info about the game from Google. The aim of the game is to capture more pieces than the opponent. Game ends when one side of the table is empty - then both players count their pebbles.<br><br>
+ 
+1. Mary distributes the pebbles one by one and the last pebble ends up in her own Kalah.
+2. Mary distributes the pebbles one by one and the last pebble ends up in an empty pit.
+3. Mary distributes the pebbles one by one and after her turn, her side of the board is empty.
+4. Mary distributes the pebbles one by one and the last pebble ends up in a regular pit with other pebbles already in it.
+
+
 ### Task 1.6.2.6
 
 **Examples**:
@@ -70,6 +80,64 @@ needs to be able to do helps us to at least start understanding it.<br><br><br>
 - The user wishes to deposit 5 USD and the ATM rejects it because only euros are  accepted.
 - The user forgets the card inside the ATM after using it and the machine starts beeping.
 - The user wishes to make a pre-defined payment and the payment is processed.
+
+
+### Task 1.6.3.3
+
+#### 1) Examples to scenarios:
+1. Mary distributes the pebbles one by one and the last pebble ends up in her own Kalah.
+* 1.1 Mary picks up 3 pebbles from the 4th pit on her side.
+* 1.2 Mary starts moving counter-clockwise.
+* 1.3 Mary places one pebble in the 5th pit.
+* 1.4 Mary places one pebble in the 6th pit.
+* 1.5 Mary places the last pebble in her Kalah.
+* 1.6 Since the last pebble ended up in the Kalah, it’s Mary’s turn again.
+* 1.7 Mary picks up 3 more pebbles from the 2nd pit.<br><br>
+ 
+2. Mary distributes the pebbles one by one and the last pebble ends up in an empty pit.
+* 2.1 Mary picks up 4 pebbles from the 4th pit on her side.
+* 2.2.-2.4 Mary places one pebble in each consecutive pit, moving counter-clockwise.
+* 2.5 Mary places the last pebble in the 1st pit on her opponent’s side, which was previously empty.
+* 2.6 Mary takes the 4 pebbles from her 6th pit (the one opposite of the opponent’s first pit).
+* 2.7 Mary places the 4 pebbles into her own Kalah.<br><br>
+
+3. Mary distributes the pebbles one by one and after her turn, her side of the board is empty.
+* 3.1 Mary has only two pebbles left in her 6th pit.
+* 3.2 Mary takes the two pebbles from the 6th pit.
+* 3.3 Mary places one pebble to her Kalah.
+* 3.4 Mary places the second pebble to the first pit of her opponent.
+* 3.5 Mary’s side of the board is empty so the game has ended.
+* 3.6 Mary and her opponent count their pebbles.
+* 3.7 Mary has more pebbles than her opponent so Mary wins.<br><br>
+
+4. Mary distributes the pebbles one by one and the last pebble ends up in a regular pit with other pebbles already in it.
+* 4.1 Mary takes 5 pebbles from her 4th pit.
+* 4.2 Mary places one pebble in each consecutive pit.
+* 4.3 Mary places the 5th pebble in her opponent’s 2nd pit that already had 2 pebbles in it.
+* 4.4 Mary’s turn has finished and her opponent now starts his turn.<br><br>
+
+#### 2) Come up with two scenarios for Mancala
+
+#### 3) Invalid move scenario
+1. Mary picks up 2 pebbles from her 4th pit.
+2. Mary tries to place one pebble in her 3rd pit.
+3. The system doesn’t allow her to place the pebble in the 3rd pit.
+4. The system displays an error: “You must always move counter-clockwise”.
+
+#### 4) Last three turns of Mancala to end in a tie - scenario
+1. Mary and Toby are playing Mancala. Mary has 3 pebbles in her 4th pit, 1 pebble in 5th pit and all other pits on her side are empty. There are 14 pebbles in her Kalah. Toby has 1 pebble in her 1st pit, one in her 4th pit, 3 in her 5th pit, 2 in her 6th pit and 10 in her Kalah.
+2. Mary takes the 3 pebbles from the 4th pit.
+3. Mary places 1 pebbles to the 5th pit.
+4. Mary places 1 pebbles to the 6th pit.
+5. Mary places the last pebble in her Kalah. Since the last pebble went to her Kalah, it’s her turn again.
+6. Mary takes the 2 pebbles from her 5th pit.
+7. Mary places one pebble to the 6th pit.
+8. Mary places one pebble to her Kalah. Since the last pebble went to her Kalah, it’s her turn again.
+9. Mary takes the 2 remaining pebbles from her 6th pit.
+10. Mary places one pebble to her Kalah.
+11. Mary places one pebble to Toby’s first pit.
+12. Mary’s side of the table is now empty so the game is over.
+13. Mary has 18 pebbles in her Kalah, Toby has 10 pebbles in his Kalah and 8 pebbles on his side of the board. They both have 18 pebbles, therefore the game ended in a tie.
 
 
 ### Task 1.6.3.6
