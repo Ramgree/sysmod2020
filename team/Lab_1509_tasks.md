@@ -56,3 +56,40 @@ http://www.plantuml.com/plantuml/uml/TTA_QiCm40RmtKyXiWTQ_T5GA6HiwTAXkpadWhR8Ib7
 13. [Mary has 18 pebbles in her Kalah, Toby has 10 pebbles in his Kalah and 8 pebbles on his side of the board. They both have 18 pebbles, therefore the game ended in a tie.](http://www.plantuml.com/plantuml/uml/TPBDQiGW58NtUGgP_S347oc5mYnRkkcY-s1cXBOOfpXcaRUl0RcZvToTV9zwRimvtxDBULt2S9j__2MBQLfSlBZWfcberk9P_0Qt-VIvfYXUn27VvkqmjAVIjX-fYts_d-VWxs_nlTpmLSwCJr2_kdWjzjJ57O-FE_kGZ-yy5lYVIS0KO1em0vWjh0bi9gwpKYwh5AyqhmolBAFelMXQB2Gd52Sq9mmdRFV3zfOKK1Uu5IUesLRKlNr8sugMIS0KO1em0vYbZm6jaAHWAoWUAz2AiIhG2lLGbXc3tekcnK9oGd52Sy9mmXPnzl6wBk4F)
 
 ### Task 2.1.6
+
+In diagrams for both scenarios the first and last steps show all the objects; the intermediate diagrams only show the parts that have changed. 
+
+#### Scenario 1:
+
+Mary wishes to take out 5€ and the ATM dispenses it.
+- (0) Default state
+- (1) Mary enters her card to the ATM.
+- (2) Mary enters the correct PIN 1234 on the ATM keyboard.
+- (3) Mary clicks on "Withdraw", then enters "5" on the keyboard
+- (4) The ATM checks that Mary has more than 5€ on her account, then dispenses a 5€ note.
+-	(5) Mary takes the money and puts it in her pocket.
+-	(6) Mary clicks on "Finish"
+-	(7) The ATM returns the card.
+-	(8) Mary takes the card.
+
+[Object diagram for Scenario 1](https://drive.google.com/file/d/1suGfeXYM_87iNmbYXAC9PToJYYefyIgj/view?usp=sharing)
+
+
+#### Scenario 8:
+
+The user wishes to make a pre-defined payment and the payment is processed.
+- (0) Default state
+- (1) Mary enters her card to the ATM.
+- (2) Mary enters the correct PIN 1234 on the ATM keyboard.
+- (3) Mary clicks on "Payments"
+- (4) The ATM shows a list of pre-defined payments on the screen.
+- (5) Mary clicks on the payment for her ISP, Telia.
+- (6) The ATM shows details of the payment on the screen.
+- (7) Mary clicks on "Proceed"
+- (8) The ATM processes the payment.
+- (9) Mary clicks on "Finish"
+- (10) The ATM returns the card.
+- (11) Mary takes the card.
+
+[Object diagram for Scenario 8](https://drive.google.com/file/d/1hVK-LFJidmNMOaZ2OGGKO8siMGTCTSXC/view?usp=sharing)
+
