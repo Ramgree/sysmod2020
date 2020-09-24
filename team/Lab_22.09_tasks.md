@@ -23,6 +23,8 @@ one piece of furniture can hold several office supplies (or again - also zero). 
 * Class diagram of the situation shown in code
 <img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/bank.jpg">
 
+We have three classes: Bank with no attributes and with method .getTotalAssets() that has no arguments; Customer with the attribute "name" (of type String) and the method .setAccount(Account) that takes and Account class object as an argument; Account with the attributes "bank" (of type Bank) and "id" (of type String) and the method .deposit(float) that takes a float as an argument. (Actually the image says int, but let's just pretend it says float, I realized my mistake too late...). We see that one bank is associated with many clients, one client can have several bank accounts and several bank accounts can form part of a bank (aggregation).
+
 ### 4) Mancala
 
 ### 5) ATM money withdrawal
