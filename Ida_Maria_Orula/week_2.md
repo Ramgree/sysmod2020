@@ -27,7 +27,8 @@ listening and thinking along, rather than just let the video run in the backgrou
 
 1) OD for the Systems Modelling course:
 
-![Course OD](Ida_Maria_Orula/images/119991626_1000598663719164_4676272935358973137_n.jpg)
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/Ida_Maria_Orula/images/119991626_1000598663719164_4676272935358973137_n.jpg">
+
 
 2) Questions: <br>
 
@@ -66,7 +67,7 @@ a lot more confusing. If we have a well-structured model in front of us, we can 
 
 #### 2) Object diagram image - buffer with old news items and another buffer with new ones.
 
-![News buffer OD](Ida_Maria_Orula/images/119936527_999041077279059_4857050793279060511_n.jpg)
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/Ida_Maria_Orula/images/119936527_999041077279059_4857050793279060511_n.jpg?raw=true">
 
 #### 3) Breakout
 
