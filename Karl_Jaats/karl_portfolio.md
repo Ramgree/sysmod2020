@@ -10,3 +10,8 @@
 [Lab 2](/team/Lab_1509_tasks.md) 
 
 [Lecture 3](/Karl_Jaats/Lecture_3.md)
+
+[Lab 3](/team/Lab_22.09_tasks.md) 
+
+[Lecture 4](/Karl_Jaats/Lecture_4.md)
+
