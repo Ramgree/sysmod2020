@@ -29,12 +29,29 @@ Strongest point: Management and maintenance are time-consuming
 
 
 #### Tasks
+**What i thought was strange:**<br>
+**Diagram 1**<br>
+Associations because it being aggregation/composition means something else? - same as instructor
 
+**Diagram 2**<br>
+Attributes as the attribute and the object name are the same. - not the same
+
+**Diagram 3**<br>
+Seems alright to me. - obviously not the same
+
+**Diagram 4**<br>
+Object names could be more descriptive/unique as user1 etc isn't great - mentioned but debatable <br>
+The attributes too as the ids aren't really very relavant for the diagram and clutter it up. They feel akward and very technical implementation level things that distract from how it works in the slightly bigger sense. - basically same as instructor
+
+**Break up**<br>
+https://docs.google.com/document/d/13MhcLcJJXjbwEdoixdQkuqPlu0njAoPBbztIrsWg5FE/edit# <br>
+I was in group nr 6. <br>
+
+I provided the pro that the class diagram can be used as a base for other more higher level diagrams.
 
 #### Lecture reflection
+It was alright. I still feel like the the benefits of the breakouts are not anywhere near as big as you think. In fact they are maybe a little waste of time in the learning sense though
+they add some more social aspects to the class and maybe allow as to get to know eachother bit though as it is online it's very slight.
+No real discussion really takes place there people just agree quickly on the first thing said just so the task gets done and something can be
+written down.
 
-
-#### Lab reflection
-
-
-#### Tasks from the lab
