@@ -31,9 +31,12 @@ Strongest point: Difficult to maintain in dynamic systems
 
 
 #### Tasks
-
+Sadly I was unable to take part in this lecture.
 
 #### Lecture reflection
-
+While doing the lab exercises I watched some of the recording of the lecture and the fulib example I didn't really understand very well, not
+enough to be able to do the lab exercise based on that and even after getting the lab task done I don't feel like I understand how fulib
+works and how to use it well.
 
 #### Lab reflection
+It was fine, no real feelings either way.

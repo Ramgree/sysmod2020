@@ -15,3 +15,6 @@
 
 [Lecture 4](/Karl_Jaats/Lecture_4.md)
 
+[Lab 4](/team/Lab_29.09_tasks.md) 
+
+[Lecture 45(/Karl_Jaats/Lecture_5.md)
