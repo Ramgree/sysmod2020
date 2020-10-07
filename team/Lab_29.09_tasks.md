@@ -2,14 +2,14 @@
 
 ### 1) Mancala Code Generation
 The class diagram from fulib:<br>
-<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_class_diagram.png">
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_class_diagram.PNG" width="250"><br>
 Used the first scenario from [here](https://github.com/Ramgree/sysmod2020/blob/master/team/Lab_1509_tasks.md#1-examples-to-scenarios).<br>
 The initial object state:<br>
-<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code1.png">
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code1.PNG" width="300"><br>
 After step 1.5 of the scenario(Mary pick up and distributed pebbles from her 4.pit):<br>
-<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code2.png">
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code2.PNG" width="300"><br>
 After step 1.7 of the scenario(Mary pick up the pebbles from her 2.pit):<br>
-<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code3.png">
+<img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab4_mancala_code3.PNG" width="300"><br>
 
 ### 2) ATM Money Withdrawal Code Generation
 
