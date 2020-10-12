@@ -46,6 +46,18 @@ Strongest points:
 
 Should have started earlier with my contribution so I would have finished earlier, giving more time for editing. We didn't (well, I didn't) coordinate that well so some info was duplicated, but at the same time it doesn't hurt to listen some things multiple times.
 
+#### Sequence Diagram Pros Group 10
+
+Strongest points:
+- Allows to check against class diagrams 
+- SD-s show the order of operations visually
+
+Lessons learned: 
+- Drawing on the blackboard can be much faster and simpler to convey some information
+
+I think this one was honestly a bit over the top. But it was the first time when someone used blackboard drawings, so good job there. I did laugh at the Spongebob meme, thanks for that.
+The common mistakes section was also very helpful, thank you Group 10. I have had the feeling that some videos give the impression that there are only two outlooks: diagram X should always be used (or is always good) vs diagram X should (almost) never be used. A pros video that shows common mistakes makes so much sense.
+
 ----
 
 ### Discussion
