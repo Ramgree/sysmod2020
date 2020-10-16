@@ -19,15 +19,15 @@ It makes sense to use component diagrams to give new developers an overview of a
 
 **3) While watching the movies of both parties note down in portfolio, what are main points I learned from the movie, what did I like/dislike.**<br>
 
-* **Group x: PRO** <br>
-<br>
+* **Group 14: PRO** <br>
+Starting with the description of UML in general might have been unnecessary, but then again, it is always good to refresh you memory. Since I had already read quite a lot about component diagrams while preparing our own video, I didn't really gain much additional knowledge from this or the other videos. Also, I don't know if it's just me, but the sound of this video seemed really quiet and it was hard to hear. The step by step guide to creating diagrams was a nice addition.<br>
 
 
-* **Group x: ** <br>
-<br>
+* **Group 4: PRO <br>
+It was a nice and clear video with many good examples.<br>
 
-* **Group 13: CONTRA** <br>
-<br>
+* **Group 12: CONTRA** <br>
+It was a good point that in systems where new components might be added later, it can be hard to keep component diagrams up to date.<br>
 
 ### Tasks during the lecture on 29.09
 
@@ -40,4 +40,4 @@ needs comfortably. These models are in a way closer to real life than some other
 I guess it depends on what we want to show... But we probably don't want to clutter our models with too many details since they can already be full on info and hard to follow. And we might not want to model too obvious things either, such as getters and setters for everything.
 
 #### 3) Breakout
-We reached the conclusion that we like class diagrams more than component diagrams. We did agree that component diagrams are easy to map with code so they're a good way to explain an existing system to new developers and that they're good for systems where we need to specify inputs and outputs. On the other hand, there are way too many notations for expressing the same thing and it's hard to be consistent.
+I was the moderator again and I think it went quite We reached the conclusion that we like class diagrams more than component diagrams. We did agree that component diagrams are easy to map with code so they're a good way to explain an existing system to new developers and that they're good for systems where we need to specify inputs and outputs. On the other hand, there are way too many notations for expressing the same thing and it's hard to be consistent.
