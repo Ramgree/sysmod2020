@@ -1,6 +1,6 @@
 ### Lecture 2
 #### Prep
-##### Object Diagrams
+**Object Diagrams**
 **Pros:**
 * Really close to implementation so it's easy to implement
 * Can be used to really understand how the system works in practice <br>
