@@ -1,6 +1,6 @@
 ### Lecture 5
 #### Prep
-##### Use case diagrams
+**Use case diagrams**
 **Pros:**
 * Helps to identify things that are influencing the system.
 * Visualises and gives and overview of an otherwise pretty combersome thing.<br>

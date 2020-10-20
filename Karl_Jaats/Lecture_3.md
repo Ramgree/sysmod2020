@@ -1,6 +1,6 @@
 ### Lecture 3
 #### Prep
-##### Class Diagrams
+**Class Diagrams**
 **Pros:**
 * Really close to implementation so it's easy to implement and reflects closely what is in the code
 * Can be used as a base for other diagrams <br>

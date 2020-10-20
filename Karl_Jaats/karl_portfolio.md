@@ -19,6 +19,10 @@
 
 [Lecture 5](/Karl_Jaats/Lecture_5.md)
 
-[Lab 5]() 
+[Lab 5](/team/Lab_06.10_tasks.md) 
 
 [Lecture 6](/Karl_Jaats/Lecture_6.md)
+
+[Lab 6]()
+
+[Lecture 7](/Karl_Jaats/Lecture_7.md)

@@ -1,6 +1,6 @@
 ### Lecture 4
 #### Prep
-##### Component diagrams
+**Component diagrams**
 We made one of the con videos for this week. <br>
 
 **Pros:**
