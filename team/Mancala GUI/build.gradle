@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.9'
+}
+defaultTasks 'jar'
+
+group = 'mancala'
+version = '0.1.0'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+    maven { url = 'https://oss.sonatype.org/content/repositories/snapshots' }
+}
+
+dependencies {
+    implementation 'junit:junit:4.12'
+    implementation group: 'org.json', name: 'json', version: '20090211'
+}
+
+javafx {
+    version = "11.0.2"
+    modules = [ 'javafx.controls', 'javafx.base', 'javafx.fxml', 'javafx.graphics', 'javafx.media', 'javafx.swing', 'javafx.web']
+    mainClassName = 'mancala.Main'
+}
