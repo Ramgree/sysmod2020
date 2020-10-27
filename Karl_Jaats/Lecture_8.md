@@ -23,7 +23,7 @@ Lessons learned: what are activity diagrams, some notation, <br>
 Strongest point: As they are not always object oriented then it might be difficult to translate it to code
 
 **Event Storming**
-In which contexts does Alberto use the term model or modeling during this presentation (try to at least find three - there are more)?<br>
+In which contexts does Alberto use the term model or modeling during this presentation?<br>
 Modeling space being unlimited in big picture workshop and the scope of the model there is the entire buisness.<br>
 Modeling everything that happens in the flow with domain events.<br>
 Different people care about different things so they need different models.<br>
