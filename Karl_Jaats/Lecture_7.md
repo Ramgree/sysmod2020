@@ -10,7 +10,7 @@
 * In bigger sytems with many states can easily become a mess<br>
 
 **Example 1:** Makes sense to use when defining requirements. <br>
-**Example 2:** Doesn't make sense to use . <br>
+**Example 2:** Doesn't make sense to use to represent the whole system at once in big complex systems. <br>
 
 **Group 9: State charts Pro** <br>
 Lessons learned: what are state charts, difference between state charts and state machines, what's a state, what's a finite-state machine, different state charts, how to draw one.<br>
@@ -32,11 +32,10 @@ Lessons learned: what are state mahchines, reactive sytems and state charts, pur
 
 Strongest point: complexity rises fast when sytem gets bigger
 
-
-#### Tasks
-
-
 #### Lecture reflection
-
+I think the changes to the grading/organisation are good, the presentations are a lot of work and deserve the points. The rest of the lecture
+was normal, i think i understood everything and don't really have any bad or very good things to note.
 
 #### Lab reflection
+I think the extra time given to finish the labs given so far is a good idea. We were definitely lagging behind a bit and that gives us time to
+catch up and do thing more properly. It is definitely harder to organise and get the work done if you never actually see your team mates.
