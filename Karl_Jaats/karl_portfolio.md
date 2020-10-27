@@ -26,3 +26,5 @@
 [Lab 6]()
 
 [Lecture 7](/Karl_Jaats/Lecture_7.md)
+
+[Lecture 8](/Karl_Jaats/Lecture_8.md)
