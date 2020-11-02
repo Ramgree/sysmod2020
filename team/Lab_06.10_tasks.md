@@ -43,8 +43,16 @@ I think it boils down to the content - if a user story is actually based on real
 
 ### 5) Mancala Controller and Tests
 
+**Changes in class structures**:
+- Mancala
+  - Added 'winnerPlayer' property to easily keep track if the game is won or not, and by which player.
+  - Added Pits (numbered 0 to 11, where 0-5 are for Player 1 and 6-11 are for Player 2) and PlayerPits (numbered 0 and 1, where 0 is for Player 1 and 1 is for Player 2).
+- Player
+  - Added 'time' property to keep track of idle time and dropping the player from the lobby after some period of inactivity.
+  - Removed the 'pebblesInKalah' and 'pebblesInHand'. These are tracked via the 'pebbles' parameter in the Pit class. 
 
+The Server side code can be found here: https://github.com/Ramgree/sysmod2020/tree/master/team/Group-13-Mancala-Server
 
+The first two tests are implemented in the Lab5Tests class. The third test requires the server to be running. First, the Lab5Test3Dave should be run - this makes the player Dave connect to the lobby and challenge Mary. If the challenge is sent, then Lab5Test3Mary test can be run, which connects Mary to lobby and challenges Dave. After that, the two players make random valid moves if it's their turn until a winner is found. 
 
-
-
+To run two tests in parallel, I chose to run one through Gradle run configuration and the other with a JUnit run configuration. 
