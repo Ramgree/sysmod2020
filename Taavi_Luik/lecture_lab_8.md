@@ -58,18 +58,101 @@ Activity diagrams tell what happens, but not by whom. This can be OK, but it can
 
 ----
 
-### Discussion
-
-TODO
-
 ### Breakout rooms
 
-TODO
+**Notes for Group Nr 2**
+
+**Moderator**: Elen Tumasyan
+
+**Note-Taker**: Taavi + Benjamin
+
+**Opening Notes**
+
+Let's start.
+
+**First Person Pro Notes**
+
+Rain : Perfect for describing complex algorithms. No other diagram does it as well as activity diagrams.
+
+**Second Person Con Notes**
+
+Elen : In trivial cases/systems, they can be redundant.
+
+**Third Person Pro Notes**
+
+Rasul: AD-s are useful in business modelling since they are understandable for both business people and end users.
+
+**Fourth Person Con Notes**
+
+Simo: the diagrams are so user friendly so it can cause a temptation to make them very complex where all details are put in.
+
+**Fifth Person Pro Notes**
+
+Jonathan: ADs are good for system validation.
+
+**Moderator Summary Notes**
+
+Interesting discussion.
+
+**Round 1 Person Challenge/Question Notes**
+
+Benjamin: disagrees with 1st pro argument. With really complex algorithms the diagram gets really messy : many branches, gets shady ...
+
+**Round 1 Person Comment/Defense/Answer Notes**
+
+Elen: You choose how complex it gets by highlighting core parts of the algorithm
+
+Rain: Even if activity diagrams struggle to describe the algorithm, I would argue that no other diagram does it better.
+
+**Round 2 Person Challenge/Question Notes**
+
+Silver: Every diagram is redundant in some ways (in trivial cases/systems) so it is not a good point
+
+**Round 2 Person Comment/Defense/Answer Notes**
+
+Elen: e.g. systems in small applications can be better conveyed with use case diagrams or others as opposed to an activity diagram.
+
+**Round 3 Person Challenge/Question Notes**
+
+Benjamin: they are understandable for end users, but you have to understand basic logic and be able to model a problem with it.
+
+**Round 3 Person Comment/Defense/Answer Notes**
+
+Rasul : AD is the simplest diagram to clarify process for end users and BA
+
+“In problem solving we need any kind of diagram for understanding the process and AD is one of the best way for clarify process for BA and end users”
+
+**Round 4 Person Challenge/Question Notes**
+
+Simo : (referring to fourth person con note) It depends only on the experience of the diagram maker, also picking the right information to show is entirely tied to this same person.
+
+**Round 4 Person Comment/Defense/Answer Notes**
+
+Elen: Becoming experienced also takes resources from the company.
+
+**Free discussion to find best points for and against**
+
+What are we winning or losing with activity diagram vs. imperative code? (Why?)
+- We can see the branching with activity diagrams. Code can be scary for consumers. Stories are more understandable. Depends on the audience. 
+- Winning with activity diagram - visual interpretation
+
+**2 Best For**
+
+- Point 1: Rasul: AD-s are useful in business modelling since they are understandable for both business people and end users.
+- Point 2: Jonathan: ADs are good for system validation.
+
+**2 Best Against**
+
+- Point 1: Elen : In trivial cases/systems, they can be redundant.
+- Point 2: Simo: the diagrams are so user friendly so it can cause a temptation to make them very complex where all details are put in.
+
 
 ### Lecture reflections
 
-TODO
+After the breakout discussion I thought that any sort of diagram for a non-trivial task is useful for finding problems with a design early on in the process, as long as the diagram doesn't take too long itself (draining time from implementing the algorithm). But design is important, diagrams can help us visualize (and double check ourselves) or communicate design to others *before* we actually implement it. 
+
+I have seen the usefulness of diagrams as means of communication in my current internship multiple times. *Especially if* people don't share your background or know the problem in detail, then visualizations (exclusively or additionally to other methods) help a lot.
 
 ### Lab reflections
 
-TODO
+Once the basic steps of creating a diagram are known (both theoretical - what is the notation - and practical - how to draw it using the software I am using) then it becomes much more enjoyable to design and use diagrams. 
