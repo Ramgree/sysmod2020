@@ -1,0 +1,128 @@
+-Connection result for Dave: {"result":"OK"}
+8Add challenge result for Dave -> Mary: {"result":"OK"}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+1Response for /games: {"result":"OK","games":[]}
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":0,"name":"Mary","pits":{"pit_7":{"pebbles":3},"pit_11":{"pebbles":3},"pit_6":{"pebbles":3},"pit_9":{"pebbles":3},"pit_8":{"pebbles":3},"pit_10":{"pebbles":3}}},"player_0":{"playerPit":0,"name":"Dave","pits":{"pit_3":{"pebbles":3},"pit_2":{"pebbles":3},"pit_1":{"pebbles":3},"pit_0":{"pebbles":3},"pit_5":{"pebbles":3},"pit_4":{"pebbles":3}}},"playerTurn":"Dave"}}
+Game exists!
+=My turn! Making a random valid move from [0, 1, 2, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":1,"name":"Mary","pits":{"pit_7":{"pebbles":4},"pit_11":{"pebbles":4},"pit_6":{"pebbles":3},"pit_9":{"pebbles":0},"pit_8":{"pebbles":3},"pit_10":{"pebbles":4}}},"player_0":{"playerPit":1,"name":"Dave","pits":{"pit_3":{"pebbles":3},"pit_2":{"pebbles":3},"pit_1":{"pebbles":3},"pit_0":{"pebbles":3},"pit_5":{"pebbles":4},"pit_4":{"pebbles":0}}},"playerTurn":"Mary"}}
+Game exists!
+Not Dave's turn yet!
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":1,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":5},"pit_6":{"pebbles":3},"pit_9":{"pebbles":1},"pit_8":{"pebbles":4},"pit_10":{"pebbles":5}}},"player_0":{"playerPit":1,"name":"Dave","pits":{"pit_3":{"pebbles":3},"pit_2":{"pebbles":3},"pit_1":{"pebbles":3},"pit_0":{"pebbles":3},"pit_5":{"pebbles":4},"pit_4":{"pebbles":0}}},"playerTurn":"Dave"}}
+Game exists!
+:My turn! Making a random valid move from [0, 1, 2, 3, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":1,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":6},"pit_6":{"pebbles":3},"pit_9":{"pebbles":1},"pit_8":{"pebbles":4},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":2,"name":"Dave","pits":{"pit_3":{"pebbles":5},"pit_2":{"pebbles":1},"pit_1":{"pebbles":4},"pit_0":{"pebbles":3},"pit_5":{"pebbles":5},"pit_4":{"pebbles":1}}},"playerTurn":"Dave"}}
+Game exists!
+=My turn! Making a random valid move from [0, 1, 2, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":2,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":6},"pit_6":{"pebbles":0},"pit_9":{"pebbles":2},"pit_8":{"pebbles":6},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":2,"name":"Dave","pits":{"pit_3":{"pebbles":0},"pit_2":{"pebbles":1},"pit_1":{"pebbles":4},"pit_0":{"pebbles":3},"pit_5":{"pebbles":6},"pit_4":{"pebbles":2}}},"playerTurn":"Dave"}}
+Game exists!
+:My turn! Making a random valid move from [0, 1, 2, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":2,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":0},"pit_6":{"pebbles":0},"pit_9":{"pebbles":2},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":9,"name":"Dave","pits":{"pit_3":{"pebbles":2},"pit_2":{"pebbles":1},"pit_1":{"pebbles":5},"pit_0":{"pebbles":3},"pit_5":{"pebbles":7},"pit_4":{"pebbles":3}}},"playerTurn":"Dave"}}
+Game exists!
+=My turn! Making a random valid move from [0, 1, 2, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":3,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":0},"pit_6":{"pebbles":0},"pit_9":{"pebbles":2},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":9,"name":"Dave","pits":{"pit_3":{"pebbles":3},"pit_2":{"pebbles":2},"pit_1":{"pebbles":0},"pit_0":{"pebbles":3},"pit_5":{"pebbles":8},"pit_4":{"pebbles":4}}},"playerTurn":"Dave"}}
+Game exists!
+:My turn! Making a random valid move from [0, 2, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":3,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":1},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":1}}},"player_0":{"playerPit":9,"name":"Dave","pits":{"pit_3":{"pebbles":4},"pit_2":{"pebbles":3},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":8},"pit_4":{"pebbles":4}}},"playerTurn":"Dave"}}
+Game exists!
+:My turn! Making a random valid move from [1, 2, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":3,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":2},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":9,"name":"Dave","pits":{"pit_3":{"pebbles":5},"pit_2":{"pebbles":0},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":9},"pit_4":{"pebbles":5}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¶Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":4,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":2},"pit_6":{"pebbles":0},"pit_9":{"pebbles":1},"pit_8":{"pebbles":1},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":9,"name":"Dave","pits":{"pit_3":{"pebbles":5},"pit_2":{"pebbles":0},"pit_1":{"pebbles":0},"pit_0":{"pebbles":0},"pit_5":{"pebbles":9},"pit_4":{"pebbles":5}}},"playerTurn":"Dave"}}
+Game exists!
+4My turn! Making a random valid move from [3, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¸Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":5,"name":"Mary","pits":{"pit_7":{"pebbles":1},"pit_11":{"pebbles":0},"pit_6":{"pebbles":0},"pit_9":{"pebbles":1},"pit_8":{"pebbles":2},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":10,"name":"Dave","pits":{"pit_3":{"pebbles":0},"pit_2":{"pebbles":0},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":10},"pit_4":{"pebbles":6}}},"playerTurn":"Dave"}}
+Game exists!
+4My turn! Making a random valid move from [1, 4, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+¸Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":6,"name":"Mary","pits":{"pit_7":{"pebbles":2},"pit_11":{"pebbles":1},"pit_6":{"pebbles":0},"pit_9":{"pebbles":3},"pit_8":{"pebbles":0},"pit_10":{"pebbles":2}}},"player_0":{"playerPit":11,"name":"Dave","pits":{"pit_3":{"pebbles":0},"pit_2":{"pebbles":0},"pit_1":{"pebbles":0},"pit_0":{"pebbles":0},"pit_5":{"pebbles":11},"pit_4":{"pebbles":0}}},"playerTurn":"Dave"}}
+Game exists!
+.My turn! Making a random valid move from [5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":7,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":2},"pit_6":{"pebbles":0},"pit_9":{"pebbles":5},"pit_8":{"pebbles":0},"pit_10":{"pebbles":3}}},"player_0":{"playerPit":15,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":1},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":1}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 2, 3, 4]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":7,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":3},"pit_6":{"pebbles":0},"pit_9":{"pebbles":5},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":16,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":2},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":1}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 2, 3, 4]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":7,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":0},"pit_6":{"pebbles":0},"pit_9":{"pebbles":5},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":17,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":4},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":1}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 2, 3, 4]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":7,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":1},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":1}}},"player_0":{"playerPit":18,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":6},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":1}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 2, 3, 4]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":7,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":2},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":18,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":6},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":1},"pit_4":{"pebbles":0}}},"playerTurn":"Dave"}}
+Game exists!
+7My turn! Making a random valid move from [1, 2, 3, 5]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+·Response for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":8,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":2},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":18,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":6},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":0}}},"playerTurn":"Dave"}}
+Game exists!
+4My turn! Making a random valid move from [1, 2, 3]
+VResponse for sent move: <html><body><h2>500 Internal Server Error</h2></body></html>
+"Woke from Thread.sleep for Dave.
+]Response for /games: {"result":"OK","games":[{"player_1":"Dave","player_2":"Mary","id":0}]}
+ÇResponse for /games/ 0 is {"result":"OK","game":{"player_1":{"playerPit":8,"name":"Mary","pits":{"pit_7":{"pebbles":0},"pit_11":{"pebbles":0},"pit_6":{"pebbles":0},"pit_9":{"pebbles":0},"pit_8":{"pebbles":0},"pit_10":{"pebbles":0}}},"player_0":{"playerPit":19,"name":"Dave","pits":{"pit_3":{"pebbles":1},"pit_2":{"pebbles":7},"pit_1":{"pebbles":1},"pit_0":{"pebbles":0},"pit_5":{"pebbles":0},"pit_4":{"pebbles":0}}},"playerTurn":"Dave","winner":"Dave"}}
+Game exists!
+4My turn! Making a random valid move from [1, 2, 3]
+)Response for sent move: {"result":"OK"}
+Dave won the game! Exiting!
