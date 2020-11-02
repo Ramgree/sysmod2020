@@ -23,7 +23,7 @@
 
 [Lecture 6](/Karl_Jaats/Lecture_6.md)
 
-[Lab 6]()
+[Lab 6](/team/Lab_13.10_tasks.md)
 
 [Lecture 7](/Karl_Jaats/Lecture_7.md)
 
