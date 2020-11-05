@@ -10,11 +10,11 @@
 
 <img src="https://github.com/Ramgree/sysmod2020/blob/master/team/images/lab5_detailed_uc.png"><br>
 
-The high level diagram only shows Mancala from the user's perspective (considering they don't care about the server or the network) - only the things that they actually do. They need to log in and wait for someone to play with. Then they can play the game. They can either just keep playing the game and quit whenever they feel like it or they might win or lose the game (they need to keep track of that themselvs). Playing the game includes them moving the pebbles between pits and in order to do that, they first need to select a pit from which to move the pebbles.<br><br>
+The high level diagram only shows Mancala from the user's perspective (considering they don't care about the server or the network) - only the things that they actually do. They need to log in and wait for someone to play with. Then they can play the game. They can either just keep playing the game and quit whenever they feel like it or they might win or lose the game (they need to keep track of that themselvs). Playing the game includes them moving the pebbles between pits and in order to do that, they first need to select a pit from which to move the pebbles.<br>
 
-This diagram is more useful while talking to the customers, since we only focus on the part that they care about - what playing the game will look like for them, without bothering them with details about servers and network connection and other scary IT words.<br><br>
+This diagram is more useful while talking to the customers, since we only focus on the part that they care about - what playing the game will look like for them, without bothering them with details about servers and network connection and other scary IT words.<br>
 
-The detailed diagram is meant more for people trying to develop the system. It shows more of the technical side and points out which scenarios must be covered. For example, a developer should keep in mind that several games should be able to run at the same time. Here we see that several players access the game on a server from their own devices over a network. A new game is started whenever there are 2 people ready to play. Therefore, since in the current case there are 4 people, 2 games are started.<br>
+The detailed diagram is meant more for people trying to develop the system. It shows more of the technical side and points out which scenarios must be covered. For example, a developer should keep in mind that several games should be able to run at the same time. Here we see that several players access the game on a server from their own devices over a network. A new game is started whenever there are 2 people ready to play. Therefore, since in the current case there are 4 people, 2 games are started.<br><br>
 
 
 ### 2) Mancala Personas
@@ -25,7 +25,7 @@ We have decided that the system will not specify any winning/losing conditions f
 
 * Tina is a passionate gamer and always wants to win at everything she does. She doesn't even care if she won fair and square or by cheating - she's always looking for new ways to trick her opponents and the system, no matter what kind of a game she's playing. Her favourite trick in playing Mancala is that whenever she reaches her Kalah, she tries to sneak several pebbles into it, rather than just one, in order to fill it more quickly. She might also skip some pits if it seems to favor her position in the game.<br>
 
-In order for the game to be enjoyable for Tina's opponents as well, we'd have to implement strict control over what moves a user can or cannot do. For example, a user must not be able to drop several pebbles into the same pit/Kalah or skip pits on their way. Such illegal moves should be stopped as smoothly as possible - we can't allow a situation where a player does something wrong and this makes the whole system crash or results in incorrect game results.<br>
+In order for the game to be enjoyable for Tina's opponents as well, we'd have to implement strict control over what moves a user can or cannot do. For example, a user must not be able to drop several pebbles into the same pit/Kalah or skip pits on their way. Such illegal moves should be stopped as smoothly as possible - we can't allow a situation where a player does something wrong and this makes the whole system crash or results in incorrect game results.<br><br>
 
 
 ### 3) ATM Money Withdrawal Usecase
