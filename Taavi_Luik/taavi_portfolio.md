@@ -17,3 +17,5 @@
 [Lecture and lab 7](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_7.md)
 
 [Lecture and lab 8](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_8.md)
+
+[Lecture and lab 9](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_9.md)
