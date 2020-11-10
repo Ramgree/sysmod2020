@@ -162,7 +162,10 @@ Hopefully we can keep up this energy throughout the course and keep our team dra
 I enjoyed the discussion with Ulno at the end of the lab session. We got some useful tips and he was very supportive and seemed to be happy with our work so far. 
 The only issue was that I had hoped to be able to leave the lab session a bit earlier, because I had an event starting at 18.15. 
 That didn’t work out since our group’s discussion with Ulno was at the very end of the lab, but luckily, after the fastest bike ride of my life, I even managed to arrive at that event on time. 
-All's well that ends well!
+All's well that ends well!<br><br>
+
+The lab tasks from this week can be found [here](/team/Lab_1509_tasks.md)
+
 
 
 
