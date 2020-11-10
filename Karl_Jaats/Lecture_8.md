@@ -42,8 +42,12 @@ After doing the event stroming you will be confident like Bruce Lee and inviting
 In which context does Alberto mention State Charts or State Machines?<br>
 When investigating aggregates we focus on state machines among other things.
 
-#### Tasks
-
-
 #### Lecture reflection
+It is definitely true that UML is kinda hard to learn and often tedious and so 
+people tend to be reluctant to use it. So finding something to replace it would definitely be good.
+I think DDD and Event Storming do help a bit with it but i think it's not enough really, i think the modeling world might need 
+a bit more radical and complete reformation to really improve. At least thet's the feeling i get.<br><br>
 
+The demonstration of Event Storming and Miro was definitely useful and helpful but again i feel like something a bit more fully
+planned with less pauses and the err..s and umm..s that come from live thinking would maybe be a bit better. But maybe doing it live
+like that is actually more informative, i don't know.
