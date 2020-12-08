@@ -57,7 +57,7 @@ Same for the tester. So I guess all people benefit from it, but the three I brou
 
 My laptop was acting up and I couldn’t use my microphone for some reason. Strangely enough, I wasn't the only one. There were 3 people in our breakout room who had problems with their microphones.
 That did make the conversation a bit trickier, because people don't always pay much attention to what is written in the chat. We still managed to have an interesting discussion
-and cover many important arguments. I think Karel Roots was an excellent moderator! He always filled the awkward silences where no one knew what to say and made sure that all important points were covered.
+and cover many important arguments. I think **Karel Roots was an excellent moderator**! He always filled the awkward silences where no one knew what to say and made sure that all important points were covered.
 For example, he brought it to our attention that we weren't focusing on personas enough, which lead to a discussion about how personas can be really useful to make sure we have
 considered the needs of all the different users, but that they can also be really complicated to create. To create a credible persona you must be able to understand the needs of
 that usergroup. To do it thoroughly, you could even need to make focus group interviews which is time consuming. It can be hard to put yourself in the shoes of someone else. 
