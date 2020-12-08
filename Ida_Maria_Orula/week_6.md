@@ -58,7 +58,7 @@ they understand why so much work still needs to be done.
 
 
 #### 3) Breakout room 1
-I wasn't actually planning to be a moderator again, but since no one else seemed to want this role, I volunteered and moderated the discussion. I think it went rather smoothly
+I wasn't actually planning to be a moderator again, but since no one else seemed to want this role, **I volunteered and moderated the discussion**. I think it went rather smoothly
 overall, even though the structure of the discussion did get a bit messy at some point, because everyone had something to say and it was hard to keep track of who was responding to who.
 Luckily we managed to sort this out retrospectively and make the notetaker's life a bit easier. One of the main questions that arose from our discussion was about who actually
 benefits from sequence diagrams. I personally like the expressiveness of sequence diagrams - you can show alternative scenarios, loops etc in a very clear and intuitive manner.
@@ -79,9 +79,9 @@ them the prototype and be done with it. And I kind of understand their confusion
 simply doesn't mean anything to the client. I also enjoyed the breakout room discussion. The first time I moderated a breakout session I had previously decided that I'd do it and 
 I was a bit nervous about how it would go. This time I hadn't planned on moderating and the decision was very spontaneous, but everything still went smoothly. When I felt that we
 had lost the clear structure we had started with, I simply admitted it to the group and we did a little recap of what everyone had said so that the notetaker could write it all down.
- I also got lucky with my teammates again. They had some good arguments and it was clear that they were using their own heads to think, rather than just recite what they had heard 
+Luckily I had great teammates again. They had some good arguments and it was clear that they were using their own heads to think, rather than just recite what they had heard 
  in the videos. I really feel that this discussion helped me to understand sequence diagrams better and to look at them from different perspectives. <br>
  Unfortunately I couldn't be present during the lab due to a doctor's appointment. If I hadn't gone to the doctor at that time, I would've had to wait another two weeks which 
  was not something I wanted to do. Some annoying health issues have already been distracting me for long enough. So due to all that I do have some catching up to do with my part of the 
  lab tasks, but I will get back on track. Until then, I'll just make sure my teammates know that I'm not simply ignoring my obligations and that I will get my part done. Luckily
- they're all super understanding. I still find it kind of hard to follow the lab tasks, they seem rather confusing most of the times. It's more about guessing what needs to be done.
+ they're all super understanding. I sometimes still find it kind of hard to follow the lab tasks, they can seem rather confusing. It's more about guessing what needs to be done. But I guess it's partly because in many cases there are no right or wrong answers and with such tasks it's necessary to use your own logic and creativity instead of just following a step-by-step guide.
