@@ -19,3 +19,11 @@
 [Lecture and lab 8](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_8.md)
 
 [Lecture and lab 9](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_9.md)
+
+[Lecture and lab 10](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_10.md)
+
+[Lecture and lab 11](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_11.md)
+
+[Lecture and lab 12](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_12.md)
+
+[Lecture and lab 13](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_13.md)
