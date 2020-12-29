@@ -27,3 +27,7 @@
 [Lecture and lab 12](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_12.md)
 
 [Lecture and lab 13](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_13.md)
+
+[Lecture and lab 14](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_14.md)
+
+[Lecture and lab 15](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_15.md)
