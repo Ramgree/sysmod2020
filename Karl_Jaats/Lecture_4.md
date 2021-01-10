@@ -1,7 +1,7 @@
 ### Lecture 4
 #### Prep
 **Component diagrams**
-We made one of the con videos for this week. <br>
+We made one of the con videos for this week which can be found [here](https://www.youtube.com/watch?v=jmjxVekJ78g)<br>
 
 **Pros:**
 * Great for planning the system implementation as it covers all the main parts without going into unnecessary detail.
@@ -40,3 +40,7 @@ works and how to use it well.
 
 #### Lab reflection
 It was fine, no real feelings either way.
+
+#### Tasks from the lab
+Can be found [here](/team/Lab_29.09_tasks.md). <br>
+I did tasks 1 and 5.

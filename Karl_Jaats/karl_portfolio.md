@@ -32,3 +32,9 @@
 [Lecture 9](/Karl_Jaats/Lecture_9.md)
 
 [Lecture 10](/Karl_Jaats/Lecture_10.md)
+
+[Lecture 11](/Karl_Jaats/Lecture_11.md)
+
+[Lecture 12](/Karl_Jaats/Lecture_12.md)
+
+[Lecture 13](/Karl_Jaats/Lecture_13.md)

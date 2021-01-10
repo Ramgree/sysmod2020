@@ -30,4 +30,5 @@ It was good. Much better than the first one, the recorded/live hybrid seems to w
 Again kinda tedious exercises with not a lot of learning per time investment though i guess it wasn't too bad. We do have to actually draw some of the diagrams we talk about to make it stick better and be more understandable.
 
 #### Tasks from the lab
-Can be found [here](/team/Lab_1509_tasks.md). I did the diagrams for 2.1.3.
+Can be found [here](/team/Lab_1509_tasks.md). <br>
+I did the task 2.1.3.

@@ -1,7 +1,7 @@
 ### Lecture 6
 #### Prep
 **Sequence diagrams**
-We made one of the pro videos for this week. <br>
+We made one of the pro videos for this week which can be found [here](https://www.youtube.com/watch?v=Zka4_txGkE8)<br>
 
 **Pros:**
 * Helps to coordinate between teams that work on components of the system that are going to need to interact.
@@ -61,3 +61,7 @@ the problem that it might become too quick and hard to follow like that.
 #### Lab reflection
 Pretty lengthy tasks again this lab but since we have been given an extension it is much more reasonable. Man I never have much to say
 about the labs.
+
+#### Tasks from the lab
+Can be found [here](/team/Lab_13.10_tasks.md).<br>
+I did the wireframes and the Mancala GUI.
