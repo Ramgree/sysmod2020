@@ -14,7 +14,7 @@ Done! <br><br>
 - Use cases are in free form so there's a lot of room for misunderstandings and different interpretations<br>
 - They aren't object oriented. <br><br>
 
-It makes sense to use...<br><br>
+It makes sense to use use case diagrams if we want to show how a user interacts with the system. It wouldn't make sense to use them if we need to show many details about the system itself (eg what part needs some input from some other part etc)<br><br>
 
 **3) While watching the movies of both parties note down in portfolio, what are main points I learned from the movie, what did I like/dislike.**<br>
 
@@ -65,8 +65,7 @@ that usergroup. To do it thoroughly, you could even need to make focus group int
 
 ### Reflections
 
-This time I made the mistake of not writing my reflections down right after the lecture/lab, so I can't really remember much. I do remember that I liked the discussion about 
-which people benefit from systems modeling the most, as it was interesting to try and see things from different people's viewpoints. I also realized that I still remembered
- some things about use cases and use case diagrams from some previous courses, but not in much detail. For example, I didn't know or didn't remember that actors and personas
-  are not the same thing. It was nice to gain a new perspective on a topic that was already somewhat familiar. 
+This time I made the mistake of not writing my reflections down right after the lecture/lab, so I can't really remember much. I do remember that I liked the discussion about which people benefit from systems modeling the most, as it was interesting to try and see things from different people's viewpoints. I also realized that I still remembered some things about use cases and use case diagrams from some previous courses, but not in much detail. For example, I didn't know or didn't remember that actors and personas are not the same thing. It was nice to gain a new perspective on a topic that was already somewhat familiar. 
+
+The lab exercises for this week can be found [here](/team/Lab_06.10_tasks.md)
 
