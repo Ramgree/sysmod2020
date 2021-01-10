@@ -40,7 +40,7 @@ interesting and informative. I do kinda doubt a little if the assigned roles in 
 pretty much in the same position. But that's not necessarily a bad thing as it is all good experience in how people work together and
 still good experience for acting in these roles for the first time. 
 
-#### Lab reflection
+#### The Project
 Did the Event Storming today. The initial team role assignment had the problem that people weren't very enthusiasticly volunteering but we got 
 everything got assigned in the end anyway. The start of event storming was also pretty rocky as nobody wanted to really talk and we didn't really
 have a very good idea of how to start or how to actually do event storming but after ulno helped us get started everything went pretty smoothly

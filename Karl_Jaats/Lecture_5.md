@@ -63,3 +63,6 @@ The change that the lab starts right in Discord and not in bbb is I think a good
 in bbb anyway.<br>
 With basically all the labs the instructions feel a little unclear. I can't relly put my finger on what the problem is and i guess so far they have conveyed
 what was meant but somehow they feel unclear/cluncky. 
+
+#### Tasks from the lab
+Can be found [here](/team/Lab_06.10_tasks.md).

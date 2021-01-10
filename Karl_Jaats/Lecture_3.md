@@ -55,3 +55,8 @@ they add some more social aspects to the class and maybe allow as to get to know
 No real discussion really takes place there people just agree quickly on the first thing said just so the task gets done and something can be
 written down.
 
+#### Lab reflection
+
+#### Tasks from the lab
+Can be found [here](/team/Lab_22.09_tasks.md). <br>
+I did task 4.
