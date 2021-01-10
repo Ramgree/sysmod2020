@@ -28,7 +28,7 @@ It was a nice and clear video with many good examples.<br>
 * **Group 12: CONTRA** <br>
 It was a good point that in systems where new components might be added later, it can be hard to keep component diagrams up to date.<br>
 
-* Our group also presented a video this week. I had offered to do the introduction part and the other team members just divided several arguments among themselves. 
+* Our group also presented a video this week. I had offered to do the introduction part and the other team members just divided several arguments among themselves. Before filming the video, Karl and I had a small brainstorming session about the arguments.
 
 ### Tasks during the lecture on 29.09
 
