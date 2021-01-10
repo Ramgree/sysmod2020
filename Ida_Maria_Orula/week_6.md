@@ -36,6 +36,8 @@ The point about the diagram growing horizontally and it being inconvenient to fo
 * **Group 14: CON** <br>
 Nice discussion about space and time efficiency.<br>
 
+* Our team also made a video this week. We followed the same logic as previously: I did the introduction and the rest of the team divided arguments among themselves. Jekaterina did the final video montage. 
+
 ### Tasks during the lecture on 13.10
 
 #### 1) What other artifacts could help communicate with the user/customer? (to help figure out what customer wants from us)
@@ -85,3 +87,5 @@ Luckily I had great teammates again. They had some good arguments and it was cle
  was not something I wanted to do. Some annoying health issues have already been distracting me for long enough. So due to all that I do have some catching up to do with my part of the 
  lab tasks, but I will get back on track. Until then, I'll just make sure my teammates know that I'm not simply ignoring my obligations and that I will get my part done. Luckily
  they're all super understanding. I sometimes still find it kind of hard to follow the lab tasks, they can seem rather confusing. It's more about guessing what needs to be done. But I guess it's partly because in many cases there are no right or wrong answers and with such tasks it's necessary to use your own logic and creativity instead of just following a step-by-step guide.
+ 
+This week lab tasks can be found [here](/team/Lab_13.10_tasks.md)
