@@ -48,4 +48,4 @@ Since I'm really interested in how people communicate with each other, the "spea
 
 In the lab, we just divided the tasks again and worked individually. This approach seems to suit our team the best, although it does leave room for errors if we simply forget to check everything together afterwards. I also have mixed feelings about having tasks that are always based on work that has been done previously. For example, if we missed something important in the banking system task last week, then we might have a harder time next week or we might just carry the error on and on. But on the other hand, this nicely simulates the way some actual system is developed - you take a task and have to make it bigger and more complex step by step.
 
-The tasks from the lab can be found [here](/team/Lab_2909_tasks.md)
+The tasks from the lab can be found [here](/team/Lab_29.09_tasks.md)
