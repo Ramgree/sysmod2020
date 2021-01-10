@@ -125,7 +125,7 @@ Please fill general notes during discussion here<br>
 
 
 ### Reflection about the lecture:
-In our breakout room I took on the role of the note-taker, since I usually enjoy writing and documenting everything I possibly can. 
+**In our breakout room I took on the role of the note-taker**, since I usually enjoy writing and documenting everything I possibly can. 
 However, I didn’t really take into consideration all the circumstances that can occur in a breakout room - a few members were really confused about 
 the task and about what the role of the moderator should be, a few members couldn’t hear the rest of us talking or we couldn’t hear them, the audio quality was terrible at times, 
 someone’s keyboard was extremely loud etc.<br>
@@ -156,7 +156,7 @@ I felt I suddenly understood the concept of object diagrams and scenarios a lot 
 since they would otherwise lead to class diagrams rather than object diagrams. So the focus is strongly on finding the correct level of abstraction. This idea is of course rather obvious and makes sense, 
 but for some reason it really helped me to hear it said out loud.<br>
 
-I’m really happy that our small team seems to be working really well together. Everyone participates and seems to have a positive attitude towards the course. 
+**I’m really happy that our small team seems to be working really well together.** Everyone participates and seems to have a positive attitude towards the course. 
 Hopefully we can keep up this energy throughout the course and keep our team drama-free.<br>
 
 I enjoyed the discussion with Ulno at the end of the lab session. We got some useful tips and he was very supportive and seemed to be happy with our work so far. 
