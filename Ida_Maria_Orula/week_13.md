@@ -43,3 +43,6 @@ After the first week I regretter having volunteered as the scrum master, but now
 
 I kind of feel like I should dedicate an entire paragraph to thanking my awesome teammates at some point! In case I forget to do this later on, I'll briefly do it now. I've already mentioned that Rasul works well and stays optimistic under less than ideal circumstances and always finishes his tasks on time. Also that Lauri is always willing to discuss things and really think about the best solutions. Taavi is very responsible with his architecture owner tasks and always asks if there's something he doesn't understand. Einar has a lot of technical knowledge and he's always happy to answer any questions the others have. Karl always completes his tasks as needed and participates in important discussions. And it will be thanks to Jekaterina that we'll have a nicely edited final presentation video in the end. 
 
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_12.md) | [Next week](/Ida_Maria_Orula/week_14.md)
+
