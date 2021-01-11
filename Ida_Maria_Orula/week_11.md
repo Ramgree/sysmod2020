@@ -29,3 +29,6 @@ It turned out that our most experienced developers all preferred C# so this is t
 We also decided that one voice chat meeting per week (during the lab) is not enough and agreed to have weekly voice chat meetings on Fridays as well. In addition to that, we agreed that frontend and backend team would have their own separate meetings to discuss most important things. 
 
 The first frontend team meeting on the 19th was rather successful, even though there were some troubles with agreeing on the meeting time. I really hope this won't be a recurring issue. We decided that as the first step Jekaterina will create a wireframe, then I will help her improve it and the Rasul will implement it in html+css.
+
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_10.md) | [Next week](/Ida_Maria_Orula/week_12.md)
