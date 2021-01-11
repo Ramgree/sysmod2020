@@ -69,3 +69,5 @@ This time I made the mistake of not writing my reflections down right after the 
 
 The lab exercises for this week can be found [here](/team/Lab_06.10_tasks.md)
 
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_4.md) | [Next week](/Ida_Maria_Orula/week_6.md)
