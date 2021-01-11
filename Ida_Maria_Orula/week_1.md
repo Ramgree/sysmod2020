@@ -79,7 +79,8 @@ I also wish we had solved some more tasks together in the lab to get us more on 
 #### Tasks from the lab
 We discussed the tasks together but then divided the work amongst ourselves. I focused mostly on 1.6.1.1, 1.6.2.1, 1.6.2.3 and 1.6.3.3. The tasks can be found [here](/team/Lab_0809_tasks.md)
 
-
+<br><br>
+[Next week](/Ida_Maria_Orula/week_2.md)
 
 
 
