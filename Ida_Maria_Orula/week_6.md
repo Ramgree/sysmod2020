@@ -36,7 +36,7 @@ The point about the diagram growing horizontally and it being inconvenient to fo
 * **Group 14: CON** <br>
 Nice discussion about space and time efficiency.<br>
 
-* Our team also made a video this week. We followed the same logic as previously: I did the introduction and the rest of the team divided arguments among themselves. Jekaterina did the final video montage. 
+* Our team also made a video this week. We followed the same logic as previously: I did the introduction and the rest of the team divided arguments among themselves. Jekaterina did the final video montage. The video itself can be found [here.](https://www.youtube.com/watch?v=Zka4_txGkE8)
 
 ### Tasks during the lecture on 13.10
 
@@ -89,3 +89,6 @@ Luckily I had great teammates again. They had some good arguments and it was cle
  they're all super understanding. I sometimes still find it kind of hard to follow the lab tasks, they can seem rather confusing. It's more about guessing what needs to be done. But I guess it's partly because in many cases there are no right or wrong answers and with such tasks it's necessary to use your own logic and creativity instead of just following a step-by-step guide.
  
 This week lab tasks can be found [here](/team/Lab_13.10_tasks.md)
+
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_5.md) | [Next week](/Ida_Maria_Orula/week_7.md)
