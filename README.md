@@ -12,3 +12,13 @@ Homeworks, classworks and other fun stuff.
 [Ida Maria Orula](/Ida_Maria_Orula/idamaria_portfolio.md)
 
 [Karl Jääts](/Karl_Jaats/karl_portfolio.md)
+
+## Presentation videos
+
+[Component diagrams CON](https://www.youtube.com/watch?v=jmjxVekJ78g&t=61s)
+
+[Sequence diagrams PRO](https://www.youtube.com/watch?v=Zka4_txGkE8&t=1s)
+
+[Banking application (with team 14)](https://www.youtube.com/watch?v=PITPZzd5-gE&feature=youtu.be)
+
+
