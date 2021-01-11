@@ -166,7 +166,8 @@ All's well that ends well!<br><br>
 
 The lab tasks from this week can be found [here](/team/Lab_1509_tasks.md)
 
-
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_1.md) | [Next week](/Ida_Maria_Orula/week_3.md)
 
 
 
