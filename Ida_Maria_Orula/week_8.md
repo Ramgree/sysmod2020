@@ -114,3 +114,6 @@ The miroboard session was a bit boring and hard to follow in my opinion. Maybe i
 We're still catching up on some of the tasks that we struggled with in the past. I still find it kind of hard to ask for advice when I get stuck on solving some task.. All my team members and the instructors are really nice and friendly, but I still feel like I should be able to understand the task on my own and then I'm embarrassed to ask for help. This is a really silly attitude that I need to work on. I guess I'm just used to having right and wrong answers in the computer science field - your code either works or it doesn't. The tasks in this course are more creative and several very different approaches can be correct. It feels strange to approach IT related tasks with the same mindset as eg writing a poem. I definitely love this approach very much, but it's still weird in this context. 
 
 (NB! This line is added a few days later: **I finally did ask for advice about some tasks I had done and it turned out that my solutions were very much on the right track!** My teammates suggested some improvements but overall the solutions seemed fine to them. Yay!)
+
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_7.md) | [Next week](/Ida_Maria_Orula/week_9.md)
