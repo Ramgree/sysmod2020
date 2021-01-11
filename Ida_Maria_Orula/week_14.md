@@ -25,3 +25,5 @@ The presentation was interesting to listen.
 #### Lab reflections
 
 The deadline for the final presentation is near so it is a bit stressful, but everyone manages to stay calm and optimistic so that is good. I have been dividing my time between doing frontend tasks (designing pages and trying to help Rasul develop them in code), reading the chat to keep track of what everyone is doing and thinking and that all asked questions get answers, keeping an eye on the github issues to make sure we aren't missing anything important and that everything is done according to the issues, encouraging people to track their time and also trying to remember to track my own etc. We will have to work very fast and efficiently to get everything done during this last week, but I'm sure we'll manage.
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_13.md) | [Next week](/Ida_Maria_Orula/week_15.md)
