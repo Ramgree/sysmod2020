@@ -87,3 +87,6 @@ I didn't like the coding part that much, since it is hard to follow any code whe
 The lab tasks didn't go as smoothly this time. Somehow we all managed to misunderstand the diagram in the first task exactly the same way, so we were all confused about the same thing. What are the chances of 4 people understanding something the exact same wrong way?! We thought that the arrow in inheritance works the other way around and points from superclass to subclass. The funny part is that while watching the introduction movies and reading about class diagrams I had understood it the correct way but that knowledge just abandoned me when the lab started. I guess I just don't have that much brain power left by the fourth class of the day. Maybe more chocolate would help, I guess I'll try that next week. Chocolate is always a good idea!<br><br>
 
 Lab task solutions from this week can be found  [here](/team/Lab_22.09_tasks.md)
+
+<br><br>
+[Previous week](/Ida_Maria_Orula/week_2.md) | [Next week](/Ida_Maria_Orula/week_4.md)
