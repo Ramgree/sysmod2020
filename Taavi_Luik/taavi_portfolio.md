@@ -31,3 +31,8 @@
 [Lecture and lab 14](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_14.md)
 
 [Lecture and lab 15](https://github.com/Ramgree/sysmod2020/blob/master/Taavi_Luik/lecture_lab_15.md)
+
+
+[Project's Github repo](https://github.com/idamaria1/sysmod_project_group13_14)
+
+[Architecture report](https://docs.google.com/document/d/1CQXUlI5ZOviGVCQCW1FU7ZGHNmpS2k9aK-z5FxZRa1I/edit#)
