@@ -33,3 +33,7 @@ Adam's presentation was very useful and insightful. I think I reflected quite we
 
 The last sprint was a bit stressful, since I thought we have to prepare the video much earlier and everyone else seemed so relaxed, so I just went along with it. In the end it worked out, so it's fiiiiine.
 So much was learned over this course, even if there was a bit too much work at times.
+
+Link to our project's Github repo: https://github.com/idamaria1/sysmod_project_group13_14
+
+Architecture report: https://docs.google.com/document/d/1CQXUlI5ZOviGVCQCW1FU7ZGHNmpS2k9aK-z5FxZRa1I/edit#
